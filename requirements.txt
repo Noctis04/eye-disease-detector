@@ -1,4 +1,6 @@
-streamlit
-numpy
-Pillow
-keras
+streamlit==1.35.0
+numpy==1.26.4
+Pillow==10.3.0
+keras==3.3.3
+jax==0.4.26
+jaxlib==0.4.26
